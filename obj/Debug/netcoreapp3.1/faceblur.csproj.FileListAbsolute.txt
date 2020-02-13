@@ -1,0 +1,11 @@
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur.deps.json
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur.runtimeconfig.json
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur.runtimeconfig.dev.json
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur.dll
+/home/patmol/repos/faceblur/bin/Debug/netcoreapp3.1/faceblur.pdb
+/home/patmol/repos/faceblur/obj/Debug/netcoreapp3.1/faceblur.csprojAssemblyReference.cache
+/home/patmol/repos/faceblur/obj/Debug/netcoreapp3.1/faceblur.AssemblyInfoInputs.cache
+/home/patmol/repos/faceblur/obj/Debug/netcoreapp3.1/faceblur.AssemblyInfo.cs
+/home/patmol/repos/faceblur/obj/Debug/netcoreapp3.1/faceblur.dll
+/home/patmol/repos/faceblur/obj/Debug/netcoreapp3.1/faceblur.pdb
