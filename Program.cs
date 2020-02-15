@@ -69,7 +69,7 @@ namespace faceblur
                 var path = Path.GetDirectoryName(imageToBlur.Item1);
                 var fileNameWithoutExtension = Path.GetFileNameWithoutExtension(imageToBlur.Item1);
                 var extension = Path.GetExtension(imageToBlur.Item1);
-                var blurFile = $"{path}/{fileNameWithoutExtension}-blur.{extension}";
+                var blurFile = $"{path}/{fileNameWithoutExtension}-blur{extension}";
 
                 if (File.Exists(blurFile))
                 {
