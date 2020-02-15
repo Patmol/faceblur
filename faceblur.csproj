@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ImageProcessorCore" Version="1.0.0-alpha1095" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.Face" Version="2.5.0-preview.1" />
+  </ItemGroup>
+
 </Project>

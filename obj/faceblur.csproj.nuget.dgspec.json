@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/patmol/repos/faceblur/faceblur.csproj": {}
+    "/Users/patmol/repos/faceblur/faceblur.csproj": {}
   },
   "projects": {
-    "/home/patmol/repos/faceblur/faceblur.csproj": {
+    "/Users/patmol/repos/faceblur/faceblur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/patmol/repos/faceblur/faceblur.csproj",
+        "projectUniqueName": "/Users/patmol/repos/faceblur/faceblur.csproj",
         "projectName": "faceblur",
-        "projectPath": "/home/patmol/repos/faceblur/faceblur.csproj",
-        "packagesPath": "/home/patmol/.nuget/packages/",
-        "outputPath": "/home/patmol/repos/faceblur/obj/",
+        "projectPath": "/Users/patmol/repos/faceblur/faceblur.csproj",
+        "packagesPath": "/Users/patmol/.nuget/packages/",
+        "outputPath": "/Users/patmol/repos/faceblur/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/patmol/.nuget/NuGet/NuGet.Config"
+          "/Users/patmol/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -35,6 +35,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "ImageProcessorCore": {
+              "target": "Package",
+              "version": "[1.0.0-alpha1095, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.Face": {
+              "target": "Package",
+              "version": "[2.5.0-preview.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
